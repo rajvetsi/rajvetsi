@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
+
+
+
+
+
+
 **rajvetsi/rajvetsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey Guys I'm Raj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working and training as a business analyst and a fun fact about myself is I am commited as seen through my 3 and a half hour commute (ONE WAY) to university once a week
+
+
